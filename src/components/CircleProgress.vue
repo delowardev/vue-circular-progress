@@ -151,7 +151,7 @@ export default {
     },
     unit: {
       type: String,
-      default: ""
+      default: "%"
     }
   },
   setup(props) {
